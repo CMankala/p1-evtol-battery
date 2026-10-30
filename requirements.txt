@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+torch>=2.2
+progpy>=1.6          # NASA Prognostics Python Package: electrochemistry baseline + default parameters
+pyyaml>=6
+matplotlib>=3.8
+pytest>=8
